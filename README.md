@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mbarcante
-- 👀 I’m interested in javaScript, react and next.
-- 🌱 I’m currently learning javaScript.
-- 💞️ I’m looking to collaborate on front-end projects.
-- 📫 How to reach me matheusbarcante@hotmail.com
+## Hi, I’m Matheus Barçante
+<strong>Conhecimento nas tecnologias:</strong>  React, Nodejs, Mysql e Mongo.
+<br>
 
-<!---
-mbarcante/mbarcante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![mbarcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarcante&show_icons=true&theme=dracula) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarcante&layout=donut&theme=dracula)](https://github.com/mbarcante/github-readme-stats)
